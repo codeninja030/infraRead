@@ -40,10 +40,6 @@ InfraRead (pronounced _infrared_ ) is an elegant self-hosted RSS feed reader and
 
 M.I.T. do anything you want with the code as long as you provide attribution back and you and don’t hold me liable
 
-## Contact or Questions
-
-Find me on [Twitter](https://twitter.com/beirutspring)
-
 ## Built on top of
 
 [Laravel](laravel.com), [VueJs](vuejs.org), [Tailwind Css](https://tailwindcss.com), [Will Vincent Feeds](https://github.com/willvincent/feeds) which 
